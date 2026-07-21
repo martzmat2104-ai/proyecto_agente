@@ -77,3 +77,6 @@ Pregunta del usuario: "¿Qué tarjetas aceptan?"
 
 Respuesta del Agente BimBamBuy:
 "De acuerdo con el documento, en BimBam Buy aceptamos las principales tarjetas de crédito y débito, incluyendo Visa, MasterCard y American Express."
+
+<img width="728" height="481" alt="image" src="https://github.com/user-attachments/assets/a5499891-b0e3-458e-a963-0c849a58509a" />
+
