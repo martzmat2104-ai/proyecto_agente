@@ -8,7 +8,7 @@ Este proyecto consiste en un agente conversacional interactivo diseñado para el
 ## 🏗️ Arquitectura de la solución implementada
 La solución sigue un flujo de trabajo basado en la arquitectura **RAG (Retrieval-Augmented Generation)** simplificada:
 1. **Interfaz de Usuario (Frontend):** Se utiliza Streamlit para renderizar una página web interactiva con una caja de chat.
-2. **Ingesta de Datos:** Mediante la librería `pypdf`, el sistema carga y extrae el texto del documento base (`preguntas frecuentes_metodos de pago_BimBamBuy.pdf`).
+2. **Ingesta de Datos:** Mediante la librería "pypdf", el sistema carga y extrae el texto del documento base (preguntas frecuentes_metodos de pago_BimBamBuy.pdf).
 3. **Orquestación (Middleware):** LangChain toma la pregunta del usuario y la combina con el texto extraído del documento dentro de una plantilla de instrucciones estructurada (Prompt Engineering).
 4. **Procesamiento LLM (Backend):** La instrucción combinada se envía a la API del modelo de lenguaje de Cohere, el cual procesa la información y genera una respuesta contextualizada.
 5. **Respuesta:** El agente devuelve la respuesta procesada a la interfaz web de Streamlit para el usuario.
@@ -46,6 +46,8 @@ Bash
 streamlit run app.py
 (Esto abrirá automáticamente una pestaña en tu navegador web local con la interfaz del agente).
 
+
+
 ❓ Ejemplos de preguntas que el agente puede responder
 Debido a que el agente está limitado al contexto del documento de preguntas frecuentes, puedes realizarle consultas como:
 
@@ -56,6 +58,7 @@ Debido a que el agente está limitado al contexto del documento de preguntas fre
 "¿Tienen la opción de pago a meses sin intereses?"
 
 "Dime el propósito y el alcance de este documento."
+
 
 💬 Ejemplos de respuestas generadas por el agente
 Pregunta del usuario: "¿Cuáles son los 3 primeros temas del índice?"
@@ -68,6 +71,7 @@ Propósito
 Alcance
 
 Métodos de pago disponibles"
+
 
 Pregunta del usuario: "¿Qué tarjetas aceptan?"
 
