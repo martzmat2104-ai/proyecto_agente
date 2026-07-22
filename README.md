@@ -78,5 +78,37 @@ Pregunta del usuario: "¿Qué tarjetas aceptan?"
 Respuesta del Agente BimBamBuy:
 "De acuerdo con el documento, en BimBam Buy aceptamos las principales tarjetas de crédito y débito, incluyendo Visa, MasterCard y American Express."
 
+Pregunta del usuario: "Menciona los métodos de pago disponibles"
+
+Respuesta del Agente BimBamBuy:
+3. Métodos de pago disponibles
+
+En BimBam Buy, ofrecemos una variedad de métodos de pago para facilitar tus compras. Los métodos de pago disponibles incluyen:
+
+Tarjetas de crédito (Visa, Mastercard, American Express)
+Tarjetas de débito (Visa, Mastercard)
+PayPal
+Transferencia bancaria
+Pago en efectivo (solo disponible en algunos países)
+
+Pregunta del usuario: ¿Cómo cancelo un pedido?
+
+Respuesta del Agente BimBamBuy:
+Para cancelar un pedido en BimBam Buy, sigue estos pasos:
+
+Accede a tu cuenta: Inicia sesión en tu cuenta de BimBam Buy.
+
+Ve a la sección de pedidos: Una vez dentro de tu cuenta, busca y selecciona la opción "Mis pedidos" o "Historial de pedidos".
+
+Localiza el pedido: Busca el pedido que deseas cancelar en la lista de pedidos.
+
+Cancela el pedido: Haz clic en el botón o enlace que indique "Cancelar pedido" o "Modificar pedido". Asegúrate de leer la información sobre las condiciones y plazos para la cancelación, ya que estos pueden variar según el método de pago y el tiempo transcurrido desde que se realizó el pedido.
+
+Confirma la cancelación: Sigue las instrucciones en pantalla para confirmar la cancelación del pedido. En algunos casos, es posible que se te solicite una razón para la cancelación o que se te ofrezcan opciones adicionales, como recibir un reembolso o mantener el pedido.
+
+Si tienes problemas para cancelar el pedido, puedes contactar al soporte de BimBam Buy a través de la sección de "Ayuda" o "Contacto" en su sitio web. También puedes utilizar el registro de incidencias para reportar el problema y solicitar asistencia.
+
+Recuerda que las políticas de cancelación pueden variar según el país y el método de pago utilizado, por lo que es importante revisar la información específica para tu caso.
+
 <img width="728" height="481" alt="image" src="https://github.com/user-attachments/assets/a5499891-b0e3-458e-a963-0c849a58509a" />
 
